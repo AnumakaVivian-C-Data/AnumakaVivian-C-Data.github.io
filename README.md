@@ -3,7 +3,7 @@ My Data Analyst Portfolio Website
 # Hi, I'm Anumaka Vivian Chizoba 👋
 ### Data Analyst| Turning Data into Actionanble Business Insights
 
-Welcome to my data portfolio! I specialize in cleaning messy datasets,uncovering hidden trends,and building interactuve dashboards tha helps business make smarter decisions.
+Welcome to my data portfolio! I specialize in cleaning messy datasets,uncovering hidden trends,and building interactuve gdashboards tha helps business make smarter decisions.
 
 ----
 
@@ -17,7 +17,7 @@ Welcome to my data portfolio! I specialize in cleaning messy datasets,uncovering
 ## 📁Featured Projects
 ### 📊Project 1: World Bank External Debt 2020-2024
 * **Goal:** 
-* **Tools Used:** SQL,Excel
+* **Tools Used:** Excel
 * **Key Insight:**Found
 * **
 
