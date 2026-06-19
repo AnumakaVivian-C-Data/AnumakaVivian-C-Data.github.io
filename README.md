@@ -21,6 +21,7 @@ where data meets decisions
 * **Goal:** 
 * **Tools Used:** Excel
 * 🔍 Key Findings
+  
 -Post-COVID debt stabilized at a higher level. Total external debt across the 20 countries analyzed rose sharply from $5.59T (2020) to $6.09T (2021), dipped slightly in 2022, then climbed back to $6.05T by 2024 — settling at an elevated level rather than continuing to spike.
 
 -Debt is heavily concentrated. China alone accounts for roughly 40% of total debt analyzed ($2.42T), far ahead of the next-highest country, India ($0.72T).
