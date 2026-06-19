@@ -1,9 +1,11 @@
 # AnumakaVivian-C-Data.github.io
 My Data Analyst Portfolio Website
 # Hi, I'm Anumaka Vivian Chizoba 👋
-### Data Analyst| Turning Data into Actionanble Business Insights
+### Data Analyst| Turning Data into Actionable Business Insights
 
-Welcome to my data portfolio! I specialize in cleaning messy datasets,uncovering hidden trends,and building interactuve gdashboards tha helps business make smarter decisions.
+Welcome to my data portfolio! 
+I specialize in cleaning messy datasets,uncovering hidden trends,and building interactuve dashboard tha helps business make smarter decisions.
+where data meets decisions
 
 ----
 
@@ -18,8 +20,13 @@ Welcome to my data portfolio! I specialize in cleaning messy datasets,uncovering
 ### 📊Project 1: World Bank External Debt 2020-2024
 * **Goal:** 
 * **Tools Used:** Excel
-* **Key Insight:**Found
-* **
+* 🔍 Key Findings
+-Post-COVID debt stabilized at a higher level. Total external debt across the 20 countries analyzed rose sharply from $5.59T (2020) to $6.09T (2021), dipped slightly in 2022, then climbed back to $6.05T by 2024 — settling at an elevated level rather than continuing to spike.
+
+-Debt is heavily concentrated. China alone accounts for roughly 40% of total debt analyzed ($2.42T), far ahead of the next-highest country, India ($0.72T).
+
+-Fastest growth came from smaller economies. Despite holding far less total debt, countries like Fiji (+89%), Togo (+67%), and Benin (+66%) saw the steepest debt growth from 2020–2024.
+
 
 ### 📈Project 2: Life Expectancy at Birth
 * **Goal:** 
