@@ -10,7 +10,7 @@ where data meets decisions
 ----
 
 ## 🛠️Technical Skillset 
-- **Data Analytics & Scripting:**SQL(SSMS)
+- **Data Analytics & Scripting:** SQL(SSMS)
 - **Data Visualization:** Power Bi,Excel Charts
 - **Tools & platforms:** GitHub,Microsoft Excel
 
